@@ -1,4 +1,4 @@
 # coursera-ibm-fullstack-c3w1
-a sample repository
+## a sample repository
 
-hello. this is a sample edit.
+this is a sample edit
